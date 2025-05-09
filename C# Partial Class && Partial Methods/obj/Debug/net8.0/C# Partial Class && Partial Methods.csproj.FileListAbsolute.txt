@@ -1,0 +1,14 @@
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/bin/Debug/net8.0/C# Partial Class && Partial Methods
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/bin/Debug/net8.0/C# Partial Class && Partial Methods.deps.json
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/bin/Debug/net8.0/C# Partial Class && Partial Methods.runtimeconfig.json
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/bin/Debug/net8.0/C# Partial Class && Partial Methods.dll
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/bin/Debug/net8.0/C# Partial Class && Partial Methods.pdb
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.AssemblyInfoInputs.cache
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.AssemblyInfo.cs
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.csproj.CoreCompileInputs.cache
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.dll
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/refint/C# Partial Class && Partial Methods.dll
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.pdb
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/C# Partial Class && Partial Methods.genruntimeconfig.cache
+/mnt/c/Users/hp/Desktop/C# Partial Class && Partial Methods/obj/Debug/net8.0/ref/C# Partial Class && Partial Methods.dll
