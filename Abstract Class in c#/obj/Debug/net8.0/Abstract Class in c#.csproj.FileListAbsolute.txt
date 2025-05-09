@@ -1,0 +1,14 @@
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/bin/Debug/net8.0/Abstract Class in c#
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/bin/Debug/net8.0/Abstract Class in c#.deps.json
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/bin/Debug/net8.0/Abstract Class in c#.runtimeconfig.json
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/bin/Debug/net8.0/Abstract Class in c#.dll
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/bin/Debug/net8.0/Abstract Class in c#.pdb
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.AssemblyInfoInputs.cache
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.AssemblyInfo.cs
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.csproj.CoreCompileInputs.cache
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.dll
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/refint/Abstract Class in c#.dll
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.pdb
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/Abstract Class in c#.genruntimeconfig.cache
+/mnt/c/Users/hp/Desktop/Abstract Class in c#/obj/Debug/net8.0/ref/Abstract Class in c#.dll
