@@ -1,0 +1,14 @@
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.AssemblyInfoInputs.cache
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.AssemblyInfo.cs
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.csproj.CoreCompileInputs.cache
+/mnt/c/Users/hp/Desktop/Interface in c#/bin/Debug/net8.0/Interface in c#
+/mnt/c/Users/hp/Desktop/Interface in c#/bin/Debug/net8.0/Interface in c#.deps.json
+/mnt/c/Users/hp/Desktop/Interface in c#/bin/Debug/net8.0/Interface in c#.runtimeconfig.json
+/mnt/c/Users/hp/Desktop/Interface in c#/bin/Debug/net8.0/Interface in c#.dll
+/mnt/c/Users/hp/Desktop/Interface in c#/bin/Debug/net8.0/Interface in c#.pdb
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.dll
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/refint/Interface in c#.dll
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.pdb
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/Interface in c#.genruntimeconfig.cache
+/mnt/c/Users/hp/Desktop/Interface in c#/obj/Debug/net8.0/ref/Interface in c#.dll
