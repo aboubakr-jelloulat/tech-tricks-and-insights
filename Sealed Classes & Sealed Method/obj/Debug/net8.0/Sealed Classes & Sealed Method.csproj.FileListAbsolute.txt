@@ -1,0 +1,14 @@
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.AssemblyInfoInputs.cache
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.AssemblyInfo.cs
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.csproj.CoreCompileInputs.cache
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/bin/Debug/net8.0/Sealed Classes & Sealed Method
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/bin/Debug/net8.0/Sealed Classes & Sealed Method.deps.json
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/bin/Debug/net8.0/Sealed Classes & Sealed Method.runtimeconfig.json
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/bin/Debug/net8.0/Sealed Classes & Sealed Method.dll
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/bin/Debug/net8.0/Sealed Classes & Sealed Method.pdb
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.dll
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/refint/Sealed Classes & Sealed Method.dll
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.pdb
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/Sealed Classes & Sealed Method.genruntimeconfig.cache
+/mnt/c/Users/hp/Desktop/Sealed Classes & Sealed Method/obj/Debug/net8.0/ref/Sealed Classes & Sealed Method.dll
